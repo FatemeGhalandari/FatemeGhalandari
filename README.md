@@ -9,7 +9,7 @@
 const Fateme = {
   code: [Javascript, Typescript, HTML, CSS, Python],
   tools: [ReactJS, TailwindCSS, MaterialUI, Redux, NodeJS],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I'm trying to learn everyday and get better."
 }
 ```
 
