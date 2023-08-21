@@ -35,7 +35,7 @@
 
 ```javascript
 const Fateme = {
-  code: [Javascript, Typescript, HTML, CSS, Python],
+  code: [Javascript, HTML, CSS, Python],
   tools: [ReactJS, TailwindCSS, MaterialUI, Redux, NodeJS],
   challenge: "I'm trying to learn everyday and get better."
 }
