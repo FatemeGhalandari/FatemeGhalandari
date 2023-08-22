@@ -40,5 +40,5 @@ const Fateme = {
   challenge: "I'm trying to learn everyday and get better."
 }
 ```
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FatemeGhalandari&theme=dark)](https://git.io/streak-stats)
 ---
