@@ -49,10 +49,10 @@ const Me = {
 <div align="center">
   <div>
     <a href="https://github.com/FatemeGhalandari" title="Go to Source">
-      <img src="https://github-readme-stats.vercel.app/api?username=FatemeGhalandari&show_icons=true&theme=material-palenight&hide_border=true" alt="zumrudu-anka" />
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=FatemeGhalandari&show_icons=true&theme=material-palenight&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/FatemeGhalandari" title="Go to Source">
-      <img  src="https://streak-stats.demolab.com/?user=FatemeGhalandari&theme=material-palenight&hide_border=true" />
+      <img width=400 src="https://streak-stats.demolab.com/?user=FatemeGhalandari&theme=material-palenight&hide_border=true" />
     </a>
   </div>
   <br>
