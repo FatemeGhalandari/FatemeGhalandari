@@ -34,11 +34,28 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const Fateme = {
-  code: [Javascript, HTML, CSS, Python],
-  tools: [ReactJS, TailwindCSS, MaterialUI, Redux, NodeJS],
+const Me = {
+  name: "Fateme",
+  about: "I'm a frontend developer",
+  tools: ["ReactJS", "TailwindCSS", "MaterialUI", "Redux", "NodeJS"],
+  languages: ["Javascript", "HTML", "CSS", "Python"],
+  teamTools: ["Github", "Discord", "Trello"],
+  softSkills: ["passionate learner", "problem solver"],
   challenge: "I'm trying to learn everyday and get better."
 }
 ```
-[![GitHub Streak](https://streak-stats.demolab.com/?user=FatemeGhalandari&theme=dark)](https://git.io/streak-stats)
+<h2 align="center">Github Status</h2>
+
+<div align="center">
+  <div>
+    <a href="https://github.com/FatemeGhalandari" title="Go to Source">
+      <img src="https://github-readme-stats.vercel.app/api?username=FatemeGhalandari&show_icons=true&theme=material-palenight&hide_border=true" alt="zumrudu-anka" />
+    </a>
+    <a href="https://github.com/FatemeGhalandari" title="Go to Source">
+      <img  src="https://streak-stats.demolab.com/?user=FatemeGhalandari&theme=material-palenight&hide_border=true" />
+    </a>
+  </div>
+  <br>
+</div>
+
 ---
