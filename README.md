@@ -55,27 +55,7 @@ const Me = {
       <img width=400 height=200 src="https://streak-stats.demolab.com/?user=FatemeGhalandari&theme=material-palenight&hide_border=true" />
     </a>
   </div>
-  <br>
 </div>  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemeGhalandari&repo=modern-bank&theme=material-palenight&hide_border=true)](https://github.com/FatemeGhalandari/modern-bank)  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemeGhalandari&repo=react-tailwind-starter&theme=material-palenight&hide_border=true)](https://github.com/FatemeGhalandari/react-tailwind-starter)
- 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatemeGhalandari&repo=react-tailwind&theme=material-palenight&hide_border=true)](https://github.com/FatemeGhalandari/react-tailwind)
-
-
-<h2 align="center">Github Status</h2>
-
-<div align="center">
-  <div>
-    <a href="https://github.com/FatemeGhalandari/modern-bank" title="modern-bank">
-      <img width=400 height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=FatemeGhalandari&repo=modern-bank&theme=material-palenight&hide_border=true" alt="modern-bank" />
-    </a>
-    <a href="https://github.com/FatemeGhalandari/react-tailwind-starter" title="Go to Source">
-      <img width=400 height=200 src="https://github-readme-stats.vercel.app/api/pin/?username=FatemeGhalandari&repo=react-tailwind-starter&theme=material-palenight&hide_border=true" />
-    </a>
-  </div>
-  <br>
-</div> 
 ---
