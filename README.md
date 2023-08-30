@@ -32,16 +32,18 @@
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
+🔭 I’m currently working as a Frontend Developer, crafting immersive and visually appealing user experiences.  
+🎓 I hold a degree in Computer Engineering, which has provided me with a solid foundation in software development and problem-solving.  
+🎨 My passion for art and painting has naturally drawn me to frontend development, as it allows me to blend creativity with technical skills to build interactive and captivating digital spaces.  
+💡 I'm a firm believer in lifelong learning. Each day presents an opportunity to acquire new skills and deepen my understanding of evolving technologies.  
+🌟 Why Frontend?  
+Frontend development, to me, is a symphony of creativity and logic. The ability to bring designs to life through code, while ensuring seamless functionality, is truly exhilarating. It's like painting a masterpiece that not only pleases the eye but also engages the mind. Solving complex puzzles, optimizing performance, and making user-centric interfaces excites the curious problem solver in me.  
+🛠️ My Skill Set:  
 ```javascript
 const Me = {
-  name: "Fateme",
-  about: "I'm a frontend developer",
   tools: ["ReactJS", "TailwindCSS", "MaterialUI", "Redux", "NodeJS"],
   languages: ["Javascript", "HTML", "CSS", "Python"],
   teamTools: ["Github", "Discord", "Trello"],
-  softSkills: ["passionate learner", "problem solver"],
-  challenge: "I'm trying to learn everyday and get better."
 }
 ```
 <h2 align="start">Github Status</h2>
