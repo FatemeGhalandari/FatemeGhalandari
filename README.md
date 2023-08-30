@@ -40,7 +40,7 @@
 Frontend development, to me, is a symphony of creativity and logic. The ability to bring designs to life through code, while ensuring seamless functionality, is truly exhilarating. It's like painting a masterpiece that not only pleases the eye but also engages the mind. Solving complex puzzles, optimizing performance, and making user-centric interfaces excites the curious problem solver in me.  
 🛠️ My Skill Set:  
 ```javascript
-const Me = {
+const MySkillSet = {
   tools: ["ReactJS", "TailwindCSS", "MaterialUI", "Redux", "NodeJS"],
   languages: ["Javascript", "HTML", "CSS", "Python"],
   teamTools: ["Github", "Discord", "Trello"],
