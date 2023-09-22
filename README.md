@@ -49,7 +49,7 @@ const MySkillSet = {
 <div align="center" >
   <div>
     <a href="https://github.com/FatemeGhalandari" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=FatemeGhalandari&show_icons=true&theme=transparent&hide_border=true&hide=contribs" alt="zumrudu-anka" />
+      <img width=400 src="https://github-readme-stats.vercel.app/api?username=FatemeGhalandari&show_icons=true&theme=transparent&hide_border=true&hide=contribs&hide_rank=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/FatemeGhalandari" title="Go to Source">
       <img width=400 src="https://streak-stats.demolab.com/?user=FatemeGhalandari&theme=transparent&hide_border=true" />
