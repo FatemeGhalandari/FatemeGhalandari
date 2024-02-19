@@ -25,8 +25,10 @@
   </a>
   <a href="https://stackoverflow.com/users/12572405/fateme-ghalandari" target="_blank">
     <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/fghalandarii/" target="_blank">
+    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a> 
-
   
 </p>
 
