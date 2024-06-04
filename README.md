@@ -2,11 +2,9 @@
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<h3>Check out my <a href="https://fatemeghalandari.github.io/"> portfolio </a>  </h3>
 <p>
   <em>
-    Check out my
-      <a href="https://fatemeghalandari.github.io/"> portfolio </a> 
-    <br/>
     Computer engineering graduate at 
     <a href="https://www.iust.ac.ir/">
       Iran University of Science And Technology</a>
