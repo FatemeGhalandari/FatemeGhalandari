@@ -4,16 +4,22 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p>
   <em>
+    Check out my
+      <a href="https://fatemeghalandari.github.io/"> portfolio </a> 
+    <br/>
     Computer engineering graduate at 
     <a href="https://www.iust.ac.ir/">
       Iran University of Science And Technology</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  </br>
+    </br>
     Frontend Developer
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
 </p>
 <p>
+<!--   <a href="https://fatemeghalandari.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a> -->
   <a href="mailto:fghalandarii@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -40,7 +46,7 @@
 🛠️ My Skill Set:  
 ```javascript
 const MySkillSet = {
-  tools: ["ReactJS", "TailwindCSS", "MaterialUI", "Redux", "NodeJS"],
+  tools: ["ReactJS", "TailwindCSS", "Firebase", "Vite", "TypeScript", "MaterialUI", "Redux", "NodeJS"],
   languages: ["Javascript", "HTML", "CSS", "Python"],
   teamTools: ["Github", "Discord", "Trello"],
 }
