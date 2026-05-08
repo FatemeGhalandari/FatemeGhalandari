@@ -36,48 +36,96 @@ const Fateme = {
 
 ------------------------------------------------------------
 
-What I build
 
-Product-ready web apps
-I build interfaces that are responsive, accessible, and maintainable, with attention to performance, component structure, and user experience.
+<h3 align="center">What I build</h3>
 
-APIs and backend workflows
-I work with Node.js, FastAPI, REST APIs, authentication flows, client-server contracts, error handling, and database-backed features.
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>Product-ready web apps</h4>
+      <p>
+        Responsive, accessible, and maintainable interfaces with attention to
+        performance, component structure, and user experience.
+      </p>
+      <p>
+        <code>React</code> <code>Next.js</code> <code>Tailwind CSS</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>APIs and backend workflows</h4>
+      <p>
+        REST APIs, authentication flows, client-server contracts, error handling,
+        and database-backed features.
+      </p>
+      <p>
+        <code>Node.js</code> <code>FastAPI</code> <code>PostgreSQL</code>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>Reliable delivery systems</h4>
+      <p>
+        Testing, CI checks, deployment workflows, code reviews, debugging, and
+        the boring parts that keep products alive.
+      </p>
+      <p>
+        <code>Jest</code> <code>Playwright</code> <code>GitHub Actions</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-Reliable delivery systems
-I care about testing, CI checks, deployment workflows, code reviews, debugging, and the boring parts that keep products alive after launch.
+<br />
+
 
 ------------------------------------------------------------
 
-Tech garden
+<h3 align="center">Tech Stack</h3>
 
-Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
-![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql)
-![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
+<table align="center">
+  <tr>
+    <td width="180"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Typescript-323330?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+      <img src="https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=3776AB" />
+      <img src="https://img.shields.io/badge/SQL-323330?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=E34F26" />
+      <img src="https://img.shields.io/badge/CSS3-323330?style=for-the-badge&logo=css3&logoColor=1572B6" />
+    </td>
+  </tr>
 
-Frontend
-![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=nextdotjs)
-![React Native](https://img.shields.io/badge/React_Native-333?style=for-the-badge&logo=react)
-![Vite](https://img.shields.io/badge/Vite-333?style=for-the-badge&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333?style=for-the-badge&logo=tailwindcss)
+  <tr>
+    <td width="180"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-323330?style=for-the-badge&logo=next.js&logoColor=FFFFFF" />
+      <img src="https://img.shields.io/badge/React_Native-323330?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Vite-323330?style=for-the-badge&logo=vite&logoColor=646CFF" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-323330?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
+    </td>
+  </tr>
 
-Backend, data, and tools
-![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=nodedotjs)
-![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333?style=for-the-badge&logo=githubactions)
+  <tr>
+    <td width="180"><b>Backend, data, and tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-323330?style=for-the-badge&logo=node.js&logoColor=339933" />
+      <img src="https://img.shields.io/badge/FastAPI-323330?style=for-the-badge&logo=fastapi&logoColor=009688" />
+      <img src="https://img.shields.io/badge/PostgreSQL-323330?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+      <img src="https://img.shields.io/badge/MongoDB-323330?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+      <img src="https://img.shields.io/badge/Docker-323330?style=for-the-badge&logo=docker&logoColor=2496ED" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-323330?style=for-the-badge&logo=githubactions&logoColor=2088FF" />
+    </td>
+  </tr>
 
-Testing
-![Jest](https://img.shields.io/badge/Jest-333?style=for-the-badge&logo=jest)
-![Testing Library](https://img.shields.io/badge/Testing_Library-333?style=for-the-badge&logo=testinglibrary)
-![Playwright](https://img.shields.io/badge/Playwright-333?style=for-the-badge&logo=playwright)
+  <tr>
+    <td width="180"><b>Testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=jest&logoColor=C21325" />
+      <img src="https://img.shields.io/badge/Testing_Library-323330?style=for-the-badge&logo=testinglibrary&logoColor=E33332" />
+      <img src="https://img.shields.io/badge/Playwright-323330?style=for-the-badge&logo=playwright&logoColor=2EAD33" />
+    </td>
+  </tr>
+</table>
 
 ------------------------------------------------------------
 
@@ -116,29 +164,30 @@ Current chapter
 •	Improving frontend performance with code splitting and image optimization
 •	Evaluating AI/web content quality with structured analysis
 •	Turning rough product ideas into reliable, testable releases
-
-<img align="center" width="498" height="278" alt="371756376-208fc571-7ef0-4214-8995-d2c9de519ea4" src="https://github.com/user-attachments/assets/6d677b9a-0902-4978-81dc-8d063f819300" />
-
-
-------------------------------------------------------------
-
-GitHub constellation
-
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FatemeGhalandari&show_icons=true&theme=tokyonight&hide_border=true" alt="Fateme's GitHub stats" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FatemeGhalandari&theme=tokyonight&hide_border=true" alt="Fateme's GitHub streak" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemeGhalandari&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
+<img width="498" height="278" alt="371756376-208fc571-7ef0-4214-8995-d2c9de519ea4" src="https://github.com/user-attachments/assets/6d677b9a-0902-4978-81dc-8d063f819300" />
 </div>
 
 ------------------------------------------------------------
 
+<br />
+
+<h3 align="center">GitHub constellation</h3>
+
+<p align="center">
+  <img
+    alt="GitHub streak"
+    src="https://streak-stats.demolab.com?user=FatemeGhalandari&theme=tokyonight&hide_border=true&background=0D1117&ring=F778BA&fire=F778BA&currStreakLabel=F778BA&sideLabels=58A6FF&currStreakNum=F778BA&sideNums=58A6FF&dates=2DD4BF"
+  />
+</p>
+
+<br />
+
+------------------------------------------------------------
+
 <div align="center">
 
-Thanks for wandering through my little code garden.
+Thanks for stopping by. I’m always building, testing, and improving.
 
 I build things that are practical, polished, and just a little bit charming.
 
