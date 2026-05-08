@@ -1,66 +1,141 @@
-<h2> Hi, I'm Fateme Ghalandari. 
-  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-</h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<h3>Check out my <a href="https://fatemeghalandari.github.io/"> portfolio </a>  </h3>
-<p>
-  <em>
-    Computer engineering graduate at 
-    <a href="https://www.iust.ac.ir/">
-      Iran University of Science And Technology</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-    </br>
-    Frontend Developer
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-  </em>
-</p>
-<p>
-<!--   <a href="https://fatemeghalandari.github.io/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a> -->
-  <a href="mailto:fghalandarii@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/fghalandarii">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a> 
-  <a href="https://www.linkedin.com/in/fghalandarii/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://stackoverflow.com/users/12572405/fateme-ghalandari" target="_blank">
-    <img alt="Stackoverflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/fghalandarii/" target="_blank">
-    <img alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
-  </a> 
-  
-</p>
+<div align="center">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-🔭 I’ve worked as a Frontend Developer, crafted immersive and visually appealing user experiences.  
-🎓 I hold a degree in Computer Engineering, which has provided me with a solid foundation in software development and problem-solving.  
-🎨 My passion for art has naturally drawn me to frontend development, which combines creativity and logic to transform designs into functional code, akin to crafting a captivating painting that engages both the eyes and the mind. You solve puzzles to make things load fast, buttons to work, and sites to be easy to use on any device. It's a mix of creativity and problem-solving that keeps me excited every day as it allows me to blend creativity with technical skills to build interactive and captivating digital spaces.  
-💡 I'm a firm believer in lifelong learning. Each day presents an opportunity to acquire new skills and deepen my understanding of evolving technologies.    
-🛠️ My Skill Set:  
-```javascript
-const MySkillSet = {
-  tools: ["ReactJS", "TailwindCSS", "Firebase", "Vite", "TypeScript", "MaterialUI", "Redux", "NodeJS"],
-  languages: ["Javascript", "HTML", "CSS", "Python"],
-  teamTools: ["Github", "Discord", "Trello"],
-}
+Hi, I'm Fateme Ghalandari
+
+Full-stack software developer crafting curious interfaces, sturdy APIs, and tiny bits of product magic.
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=React+%2B+Next.js+on+the+frontend;Node.js+%2B+FastAPI+behind+the+curtain;I+turn+ideas+into+usable%2C+maintainable+web+apps;Currently+building+from+MVP+to+production" alt="Typing SVG" />
+
+[Portfolio](https://fatemeghalandari.github.io/) • [GitHub](https://github.com/FatemeGhalandari) • [LinkedIn](https://www.linkedin.com/in/fghalandarii/) • [Email](mailto:Fghalandarii@gmail.com)
+
+</div>
+
+------------------------------------------------------------
+
+A little spellbook about me
+
+I'm a full-stack software developer based in Toronto with 4+ years of experience building web applications across frontend, backend, and deployment.
+
+I like the part of software where product sense, clean architecture, and visual polish meet. The button should feel good. The API should behave. The deploy should not require a ritual under a full moon.
+
+Currently, I'm building production-facing features with **Next.js**, **Node.js**, and modern deployment workflows, while also working with AI quality evaluation, structured analysis, and edge-case detection.
+
+```ts
+const Fateme = {
+  role: "Full-Stack Software Developer",
+  location: "Toronto, Ontario",
+  favoriteStack: ["TypeScript", "React", "Next.js", "Node.js", "Python"],
+  databases: ["PostgreSQL", "MongoDB", "SQL"],
+  testing: ["Jest", "React Testing Library", "Playwright"],
+  devOps: ["Docker", "GitHub Actions", "Linux", "CI/CD"],
+  currentQuest: "Building reliable, performant web apps from MVP to production",
+  personality: "whimsical, artistic, detail-oriented, allergic to messy state"
+};
 ```
-<h2 align="start">Github Status</h2>
 
-<div align="center" >
-  <div>
-    <a href="https://github.com/FatemeGhalandari" title="Go to Source">
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=FatemeGhalandari&show_icons=true&theme=transparent&hide_border=true&hide=contribs&hide_rank=true" alt="zumrudu-anka" />
-    </a>
-    <a href="https://github.com/FatemeGhalandari" title="Go to Source">
-      <img width=400 src="https://streak-stats.demolab.com/?user=FatemeGhalandari&theme=transparent&hide_border=true" />
-    </a>
-  </div>
-</div>  
+------------------------------------------------------------
 
+What I build
 
----
+Product-ready web apps
+I build interfaces that are responsive, accessible, and maintainable, with attention to performance, component structure, and user experience.
+
+APIs and backend workflows
+I work with Node.js, FastAPI, REST APIs, authentication flows, client-server contracts, error handling, and database-backed features.
+
+Reliable delivery systems
+I care about testing, CI checks, deployment workflows, code reviews, debugging, and the boring parts that keep products alive after launch.
+
+------------------------------------------------------------
+
+Tech garden
+
+Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-333?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-333?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-333?style=for-the-badge&logo=postgresql)
+![HTML5](https://img.shields.io/badge/HTML5-333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333?style=for-the-badge&logo=css3)
+
+Frontend
+![React](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-333?style=for-the-badge&logo=nextdotjs)
+![React Native](https://img.shields.io/badge/React_Native-333?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-333?style=for-the-badge&logo=vite)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-333?style=for-the-badge&logo=tailwindcss)
+
+Backend, data, and tools
+![Node.js](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-333?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-333?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-333?style=for-the-badge&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-333?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-333?style=for-the-badge&logo=githubactions)
+
+Testing
+![Jest](https://img.shields.io/badge/Jest-333?style=for-the-badge&logo=jest)
+![Testing Library](https://img.shields.io/badge/Testing_Library-333?style=for-the-badge&logo=testinglibrary)
+![Playwright](https://img.shields.io/badge/Playwright-333?style=for-the-badge&logo=playwright)
+
+------------------------------------------------------------
+
+Featured projects
+
+Skillmate   
+**React • Tailwind CSS • Vite • FastAPI • OpenRouter**
+
+A full-stack learning app that turns YouTube videos into interactive mini-courses and flashcards using LLM APIs.
+
+•	Converts long-form video content into structured learning material
+•	Uses AI APIs to generate flashcards and mini-course flows
+•	Combines frontend polish with backend orchestration
+
+[Repository](https://github.com/FatemeGhalandari/skillmate) • [Live Demo](https://skillmate-orcin.vercel.app/)
+
+------------------------------------------------------------
+
+Ontario Service & Facility Finder
+**React • Node.js • Express • PostgreSQL • Prisma • JWT • Zod**
+
+A full-stack Ontario community service finder for browsing health clinics, food banks, housing support, libraries, and community centres.
+
+•	Built search, filters, pagination, detailed service views, and a Leaflet map view
+•	Added admin login, protected CRUD routes, CSV export, and an analytics dashboard
+•	Used PostgreSQL, Prisma migrations, Zod validation, and structured JSON error handling
+•	Covered key flows with backend integration tests and frontend component tests
+
+[Repository](https://github.com/FatemeGhalandari/ontario-service-finder) • [Live Demo](https://ontario-service-finder.vercel.app/) • [API](https://ontario-service-finder.onrender.com/)
+
+------------------------------------------------------------
+
+Current chapter
+
+•	Building an MVP end to end with Next.js, Node.js, and deployment workflows
+•	Improving frontend performance with code splitting and image optimization
+•	Evaluating AI/web content quality with structured analysis
+•	Turning rough product ideas into reliable, testable releases
+
+------------------------------------------------------------
+
+GitHub constellation
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FatemeGhalandari&show_icons=true&theme=tokyonight&hide_border=true" alt="Fateme's GitHub stats" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FatemeGhalandari&theme=tokyonight&hide_border=true" alt="Fateme's GitHub streak" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FatemeGhalandari&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+------------------------------------------------------------
+
+<div align="center">
+
+Thanks for wandering through my little code garden.
+
+I build things that are practical, polished, and just a little bit charming.
+
+</div>
