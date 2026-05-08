@@ -4,6 +4,7 @@ Hi, I'm Fateme Ghalandari
 
 Full-stack software developer crafting curious interfaces, sturdy APIs, and tiny bits of product magic.
 
+<img width="500" height="280" alt="Curious Tech Geek" src="https://github.com/user-attachments/assets/9e7bb271-41fb-48e4-9387-3da9a1a7635c" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=React+%2B+Next.js+on+the+frontend;Node.js+%2B+FastAPI+behind+the+curtain;I+turn+ideas+into+usable%2C+maintainable+web+apps;Currently+building+from+MVP+to+production" alt="Typing SVG" />
 
 [Portfolio](https://fatemeghalandari.github.io/) • [GitHub](https://github.com/FatemeGhalandari) • [LinkedIn](https://www.linkedin.com/in/fghalandarii/) • [Email](mailto:Fghalandarii@gmail.com)
@@ -115,6 +116,9 @@ Current chapter
 •	Improving frontend performance with code splitting and image optimization
 •	Evaluating AI/web content quality with structured analysis
 •	Turning rough product ideas into reliable, testable releases
+
+<img align="center" width="498" height="278" alt="371756376-208fc571-7ef0-4214-8995-d2c9de519ea4" src="https://github.com/user-attachments/assets/6d677b9a-0902-4978-81dc-8d063f819300" />
+
 
 ------------------------------------------------------------
 
