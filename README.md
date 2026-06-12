@@ -168,11 +168,10 @@ Current chapter
 <img width="498" height="278" alt="371756376-208fc571-7ef0-4214-8995-d2c9de519ea4" src="https://github.com/user-attachments/assets/6d677b9a-0902-4978-81dc-8d063f819300" />
 </div>
 
-------------------------------------------------------------
 
-<br />
+<!-- <br /> -->
 
-<h3 align="center">GitHub constellation</h3>
+<!-- <h3 align="center">GitHub constellation</h3>
 
 <p align="center">
   <img
@@ -181,7 +180,7 @@ Current chapter
   />
 </p>
 
-<br />
+<br /> -->
 
 ------------------------------------------------------------
 
