@@ -22,7 +22,7 @@ I like the part of software where product sense, clean architecture, and visual 
 Currently, I'm building production-facing features with **Next.js**, **Node.js**, and modern deployment workflows, while also working with AI quality evaluation, structured analysis, and edge-case detection.
 
 ```ts
-const Fatemeh = {
+const Fateme = {
   role: "Full-Stack Software Developer",
   location: "Toronto, Ontario",
   favoriteStack: ["TypeScript", "React", "Next.js", "Node.js", "Python"],
