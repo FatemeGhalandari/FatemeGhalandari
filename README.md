@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi, I'm Fatemeh Ghalandari
+Hi, I'm Fateme Ghalandari
 
 Full-stack software developer crafting curious interfaces, sturdy APIs, and tiny bits of product magic.
 
